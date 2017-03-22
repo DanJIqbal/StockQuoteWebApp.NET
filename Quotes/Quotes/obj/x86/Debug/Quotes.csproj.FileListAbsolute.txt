@@ -1,0 +1,10 @@
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\bin\Debug\Quotes.exe.config
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\bin\Debug\Quotes.exe
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\bin\Debug\Quotes.pdb
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\obj\x86\Debug\Quotes.csprojResolveAssemblyReference.cache
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\obj\x86\Debug\Quotes.Main_view.resources
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\obj\x86\Debug\Quotes.PictureBox.resources
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\obj\x86\Debug\Quotes.Properties.Resources.resources
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\obj\x86\Debug\Quotes.csproj.GenerateResource.Cache
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\obj\x86\Debug\Quotes.exe
+C:\Users\danyal\Desktop\StockQuoutesProject\Quotes\Quotes\obj\x86\Debug\Quotes.pdb

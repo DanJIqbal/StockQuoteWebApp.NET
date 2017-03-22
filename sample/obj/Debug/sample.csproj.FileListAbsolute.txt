@@ -1,0 +1,6 @@
+C:\Users\danyal\Desktop\StockQuoutesProject\sample\bin\sample.dll.config
+C:\Users\danyal\Desktop\StockQuoutesProject\sample\bin\sample.dll
+C:\Users\danyal\Desktop\StockQuoutesProject\sample\bin\sample.pdb
+C:\Users\danyal\Desktop\StockQuoutesProject\sample\obj\Debug\sample.csprojResolveAssemblyReference.cache
+C:\Users\danyal\Desktop\StockQuoutesProject\sample\obj\Debug\sample.dll
+C:\Users\danyal\Desktop\StockQuoutesProject\sample\obj\Debug\sample.pdb
